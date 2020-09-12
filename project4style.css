@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+    border:2px solid tomato;
+    padding:20px;
+    margin:50px;
+  }
+  h1 {
+    color: blue;
+    font-family:verdana;
+    padding: 5px;
+    margin: 6px;
+    border: 2px solid tomato;
+    background-color:thistle;
+  }
+  p {
+     color: blue;
+    font-family:verdana;
+    padding: 5px;
+    margin: 6px;
+    border: 2px solid tomato;
+    background-color:thistle;
+ 
+  }
